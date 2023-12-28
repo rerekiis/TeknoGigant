@@ -1,0 +1,106 @@
+*{
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+list-style-type: none;
+size: cover;
+color: black;
+
+}
+.border{
+opacity: .3;
+
+}
+body{
+    background-image: url(back.jpg);
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border: 30px;
+    border-color: aqua;
+}
+nav ul li{
+    position: relative;
+    float: left;
+}
+nav ul li a{
+    padding: 15px;
+    color: black;
+    font-size: 16px;
+}
+.store{
+    max-width: 1300px;
+    margin: 0px auto;
+    height: 1980px;
+    background-color:rgb(255, 255, 255);
+    margin-top: 200px;
+}
+.box{
+    max-width: 1300px;
+    margin: 0px auto;
+    height: 1080px;
+    background-color:rgb(255, 255, 255);
+    margin-top: 200px;
+}
+.box_1{
+    position:static;
+    margin: 60px;  
+}
+.box_2{
+    position:static;
+    margin: 60px; 
+}
+.box_3{
+    position:static;
+    margin: 60px;
+}
+.object1{
+    display: inline-block;
+    
+}
+.object2{
+    display: inline-block;
+
+    margin-left: 20%;
+
+}
+.object3{
+    display: inline-block;
+    margin-left: 22%;
+
+}
+.object4{
+    display: inline-block;
+}
+.object5{
+    display: inline-block;
+    margin-left: 13%;
+
+}
+.object6{
+    display: inline-block;
+    margin-left: 13%;
+
+}
+.object7{
+    display: inline-block;
+}
+.object8{
+    display: inline-block;
+    margin-left: 20%;
+
+}
+.object9{
+    display: inline-block;
+    margin-left: 20%;
+
+}
